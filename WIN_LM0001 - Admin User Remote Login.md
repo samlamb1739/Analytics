@@ -25,11 +25,7 @@ Reference: https://car.mitre.org/analytics/CAR-2016-04-005
 
 ## Analytic Usage
 
-Describe how you use this analytic.  Include hunting techniques like searching, clustering, grouping, stacking counting, graphing, etc... 
 
-Any issues that may occur, like high false postives.
-
-Identify any time or data amount required for the analytic to be effective.
 
 
 ### SIGMA
