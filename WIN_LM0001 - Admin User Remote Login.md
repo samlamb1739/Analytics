@@ -4,14 +4,23 @@ Description
 > Detect remote login by Administrator user depending on internal pattern
 
 Information Domain: Host
+
 Analytic Type: Situational Awareness
+
 Targeted OS: Windows
+
 Tactic: Lateral Movement
+
 Technique: T1078 Valid Accounts
+
 Data Source: Windows Event Logs
+
 Logging Policy:
+
 Status: 
+
 Confidence:
+
 Reference: https://car.mitre.org/analytics/CAR-2016-04-005
 
 ## Analytic Usage
